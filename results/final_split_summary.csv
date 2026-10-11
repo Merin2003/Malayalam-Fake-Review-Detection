@@ -1,0 +1,4 @@
+﻿Split,Total Rows,Human Real (0),Human Fake (1),AI Generated (2)
+Train,2074,985,987,102
+Validation,519,247,247,25
+Test,649,308,309,32
