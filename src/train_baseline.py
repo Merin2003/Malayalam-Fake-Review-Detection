@@ -1,4 +1,4 @@
-
+# Trains and evaluates the baseline TF-IDF + Linear SVM model.
 from pathlib import Path
 import warnings
 
